@@ -77,7 +77,7 @@ body {
   text-decoration: none; }
 
 .site-nav-element {
-  float: middle;
+  float: left;
   width: 50%;
   height: 100%;
   margin: 0;
