@@ -154,8 +154,7 @@ body {
   .site-nav-element {
     padding: 6px 0 0 0; }
 
-  .site-header-icons {
-    height: 10vw; } }
+
 @media screen and (max-width: 500px) {
   .list {
     display: none;
